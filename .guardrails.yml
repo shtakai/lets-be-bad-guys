@@ -1,4 +1,4 @@
 disable: false
 bundles:
-  - secrets
+  - general
   - python
